@@ -1,0 +1,11 @@
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('1','2');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('1','4');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('1','5');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('2','1');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('2','4');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('3','4');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('3','5');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('4','1');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('4','3');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('5','1');
+INSERT INTO `friends`(`uid`, `fid`) VALUES ('5','3');
